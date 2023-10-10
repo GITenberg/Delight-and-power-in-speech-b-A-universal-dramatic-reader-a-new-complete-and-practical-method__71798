@@ -1,0 +1,41 @@
+_repo: Delight-and-power-in-speech-b-A-universal-dramatic-reader-a-new-complete-and-practical-method__71798
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+    wikipedia: https://en.wikipedia.org/wiki/George_Wharton_James
+  - agent_name: Nattkemper, Leonard G.
+    gutenberg_agent_id: '56401'
+    url: http://www.gutenberg.org/2009/agents/56401
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71798'
+  lccn: '20006689'
+language: en
+pgterms:marc904: https://archive.org/details/delightpowerinsp00natt
+pgterms:marc905: 20200409005016james
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: ellinora, MFR and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aPasadena, California :$bThe Radiant Life Press, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Recitations'
+- !lcc 'PN'
+- GITenberg
+title: 'Delight and power in speech : $b A universal dramatic reader; a new, complete
+  and practical method of securing delight and efficiency in silent and oral reading
+  and private and public speech; together with a large and varied collection of carefully
+  chosen selections in prose and poetry, with chapters on "The cultivation of the
+  memory" and "After dinner speaking."'
+url: http://www.gutenberg.org/ebooks/71798
