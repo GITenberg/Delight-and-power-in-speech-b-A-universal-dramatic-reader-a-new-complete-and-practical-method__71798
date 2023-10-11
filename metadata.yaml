@@ -1,5 +1,8 @@
 _repo: Delight-and-power-in-speech-b-A-universal-dramatic-reader-a-new-complete-and-practical-method__71798
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71798-h/images/cover.jpg
 creator:
   authors:
   - agent_name: James, George Wharton
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '56401'
     url: http://www.gutenberg.org/2009/agents/56401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71798#Delight-and-power-in-speech-b-A-universal-dramatic-reader-a-new-complete-and-practical-method_
 gutenberg_issued: '2023-10-03'
 identifiers:
   gutenberg: '71798'
